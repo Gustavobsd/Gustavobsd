@@ -1,6 +1,8 @@
 <div align="center">
 
-# Gustavo — IA / Machine Learning Engineer & Full‑Stack Dev
+# Gustavo
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=700&color=00AEEF&width=700&lines=Aspiring+Junior+Analyst.;Student+learning+Data+%26+Web+Development.;Open+to+internships+%26+mentorship." alt="typing"/>
 
 [![GitHub followers](https://img.shields.io/github/followers/Gustavobsd?style=social)](https://github.com/Gustavobsd)  
 [![Profile views](https://komarev.com/ghpvc/?username=Gustavobsd&color=blueviolet)](https://github.com/Gustavobsd)
@@ -9,61 +11,55 @@
 
 ---
 
-Resumo
+About me
+- Aspiring Junior Analyst and student transitioning into tech. I focus on practical learning: turning data into insights and building usable web prototypes.
+- Core strengths: attention to detail, problem solving, and eagerness to learn through projects and mentorship.
 
-- Engenheiro de IA e cientista de dados focado em modelos produtivos, visão computacional e sistemas escaláveis.
-- Interesse em MLOps, experimentação orientada a métricas e APIs de inferência.
+Summary (1 line)
+- Student with hands-on experience in Excel, Power BI, PHP, Python, HTML/CSS and JavaScript. Seeking junior analyst roles, internships, or mentorship to gain real-world experience.
 
-Principais métricas (visão rápida)
+Skills
+- Data & BI: Excel (advanced), Power BI (dashboards & storytelling), basic SQL concepts  
+- Programming & Backend: Python (data scripts, automation), PHP (backend prototypes)  
+- Frontend: HTML, CSS, JavaScript (responsive layouts, basic interactivity)  
+- Tools & Practices: Git, VS Code, basic testing, simple deployment concepts  
+- Learning focus: data cleaning, feature engineering, API basics, and GitHub workflow
 
-- Últimos 30 dias: commits, PRs e contribuições públicas (visualização automática via GitHub). 
-- Top linguagens: Python, JavaScript, SQL.
-- Projetos com métricas relevantes: recomendador (AUC/Recall), app web (uptime/ER).
+Selected projects
+- CARDAPIO-DE-PIZZARIA-COM-IA — personal recommender project (feature engineering + prototype).  
+  Link: https://github.com/Gustavobsd/CARDAPIO-DE-PIZZARIA-COM-IA
+- Power BI dashboards — sample dashboards for data storytelling (see repositories).  
+(If you want, I can add short technical notes and GIF demos for each project.)
 
-Visualização de atividade & tecnologias
-
+Activity & stats
 <div align="center">
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gustavobsd&theme=radical&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/Gustavobsd)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavobsd&theme=radical&layout=compact&langs_count=8)](https://github.com/Gustavobsd)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gustavobsd&theme=radical&show_icons=true)](https://github.com/Gustavobsd)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavobsd&theme=radical&layout=compact)](https://github.com/Gustavobsd)
 </div>
 
----
+What I’m building now
+- A small full‑stack demo: responsive frontend (HTML/CSS/JS) + backend (PHP or Python) + simple DB.  
+- A Power BI dashboard with a published sample and clear documentation.  
+- Improve GitHub skills: clear READMEs, issues, PRs and a basic CI pipeline.
 
-Skillset rápido
+How I can contribute / What I’m looking for
+- Internships, junior analyst roles, or short-term mentorships (code reviews, project design, interview prep).  
+- Open to contributing to small open-source projects to gain team experience.
 
-- Machine Learning & Data: TensorFlow, PyTorch, scikit-learn, Pandas, NumPy
-- Produção & Infra: Docker, GitHub Actions, CI/CD, conceitos de AWS/GCP, MLOps (pipelines)
-- Web & APIs: React, Node.js, Express, PostgreSQL/MongoDB
-- Observabilidade: testes, metrics, logging e experiment tracking
+Career goals (3–6 months)
+- Publish 2 public projects with full README and demo (GIF/video).  
+- Build a clean portfolio page with project highlights.  
+- Learn basics of CI and deploy one demo project.
 
----
+Contact
+- LinkedIn: https://linkedin.com/in/gustavobsd  
+- Portfolio: https://gustavobsd.dev  
+- Email: gustavo@email.com
 
-Projetos selecionados
+Footer
+- Motto: "Learn by doing — turn projects into proof."
 
-- CARDÁPIO-DE-PIZZARIA-COM-IA — Recomendador de produtos com ML. Destaque: pipeline de features e modelo de ranking (XGBoost).  
-- [CARDAPIO-DE-PIZZARIA-COM-IA](https://github.com/Gustavobsd/CARDAPIO-DE-PIZZARIA-COM-IA)
-
-(Quer que eu liste mais repositórios com métricas ou uma breve descrição técnica para cada?)
-
----
-
-O que estou construindo agora
-
-- Modelos de inferência em tempo real com endpoints serverless e otimização de latência.
-- Experimentos em visão computacional: transfer learning para detecção e classificação.
-- Pipelines reproducíveis: dados → features → treino → deploy.
-
----
-
-Contato
-
-- LinkedIn: https://linkedin.com/in/gustavobsd
-- Twitter: https://twitter.com/gustavobsd
-- Portfolio / Email: https://gustavobsd.dev — gustavo@email.com
-
----
-
-Rodapé
-
-- Motto: "Decisões orientadas por dados, código com responsabilidade."
-
+Notes & optional extras
+- Animation: uses a public typing SVG (no extra hosting needed). I can change the animated lines if you prefer.  
+- Want GIF demos for projects, an animated SVG banner, or a Portuguese version? Tell me and I’ll add it.  
+- If you want privacy, I can remove direct email or change links.
