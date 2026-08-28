@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Gustavo Bruno Sales David
+# 👋 Gustavo Bruno
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&width=800&lines=Junior+Data+%26+Web+Developer;Building+scalable+solutions+with+Python+%26+PHP;Turning+data+into+actionable+insights;Always+learning%2C+always+growing)](https://github.com/Gustavobsd)
 
